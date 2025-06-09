@@ -103,18 +103,13 @@ This command bundles the app into a `dist` folder for production. It correctly b
 
 ## 🧪 Demo & Testing
 
-You can use the following pre-made accounts to test the application's features.
+You can create accounts to test the application's features.
 
 ### **Passenger Login**
 
 * **Matric No:** `FAS17SIO038`
 * **Password:** `123456789`
 * **Note on Signup:** New student accounts must use a Matric No. with the format `ABC12DEF345` (3 letters, 2 numbers, 3 letters, 3 numbers).
-
-### **Driver Login**
-
-* **Email:** `lukejones@email.com` / `mondaybulus@gmail.com`
-* **Password:** `123456789`
 
 ### **Making Payments**
 
